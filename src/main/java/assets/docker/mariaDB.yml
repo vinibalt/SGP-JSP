@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  mariadb:
+    image: mariadb
+    ports:
+      - 3306:3306
+    environment:
+      MARIADB_ROOT_PASSWORD: maria1234
+      MARIADB_DATABASE: banco_jspw
+      MARIADB_USER: maria
+      MARIADB_PASSWORD: maria123

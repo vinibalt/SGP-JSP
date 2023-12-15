@@ -1,0 +1,23 @@
+
+S
+java:S1948"6Make "daoUsuarioRepository" transient or serializable.(êû·É8å¿Ó”Ã1
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(÷¤‹ú8è¿Ó”Ã1
+J	java:S108#")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8è¿Ó”Ã1
+E	java:S108%")Either remove or fill this block of code.(”ı¾8è¿Ó”Ã1
+Y
+java:S18541"7Remove this useless assignment to local variable "msg".(ºáÉÁÿÿÿÿÿ8é¿Ó”Ã1
+T
+java:S1854M"7Remove this useless assignment to local variable "msg".(İ‰Ù‘8é¿Ó”Ã1
+Y
+java:S1854P"7Remove this useless assignment to local variable "msg".(€úš©ıÿÿÿÿ8é¿Ó”Ã1
+Y
+java:S1854R"7Remove this useless assignment to local variable "msg".(ıÆÃÑúÿÿÿÿ8é¿Ó”Ã1
+\
+java:S1161,":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8é¿Ó”Ã1
+J
+java:S14811"(Remove this unused "msg" local variable.(ºáÉÁÿÿÿÿÿ8ê¿Ó”Ã1
+R
+java:S2209F"5Change this instance-reference to a static reference.( ¡¡Ó8ë¿Ó”Ã1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8í¿Ó”Ã1

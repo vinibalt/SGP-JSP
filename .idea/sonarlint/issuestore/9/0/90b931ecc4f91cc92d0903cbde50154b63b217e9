@@ -1,0 +1,43 @@
+
+b	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(ëî®8—··ïÆ1
+h	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(–‚—üÿÿÿÿ8—··ïÆ1
+c
+java:S1192("FDefine a constant instead of duplicating this literal "login" 6 times.(«ÉËÔ8—··ïÆ1
+d
+java:S1192Š"FDefine a constant instead of duplicating this literal "senha" 3 times.(ŞËø“8˜··ïÆ1
+c
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "email" 5 times.(¢§Š:8˜··ïÆ1
+t
+java:S1192Œ"QDefine a constant instead of duplicating this literal "extensaofotouser" 4 times.(ÆŸ®—ıÿÿÿÿ8˜··ïÆ1
+l
+java:S1192‹"IDefine a constant instead of duplicating this literal "fotouser" 4 times.(Ù¬îúøÿÿÿÿ8˜··ïÆ1
+j
+java:S1192"GDefine a constant instead of duplicating this literal "admin2" 4 times.(éıœ™ûÿÿÿÿ8˜··ïÆ1
+q
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Á··ïÆ1
+q
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚öàéûÿÿÿÿ8Á··ïÆ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Á··ïÆ1
+r
+java:S2095Ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Á··ïÆ1
+m
+java:S2095ñ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÛĞˆ8Á··ïÆ1
+r
+java:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Á··ïÆ1
+r
+java:S2095œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Á··ïÆ1
+m
+java:S2095ş"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÛĞˆ8Á··ïÆ1
+l
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8À··ïÆ1
+q
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨øş»øÿÿÿÿ8Á··ïÆ1
+l
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ø·“ÿ8Á··ïÆ1
+r
+java:S2095ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8÷¼ïÆ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¼ïÆ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¼ïÆ1

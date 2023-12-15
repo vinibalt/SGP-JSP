@@ -1,0 +1,84 @@
+
+T	css:S4657²z"2Unexpected shorthand "margin" after "margin-right"(É¹È‘ÿÿÿÿÿ8¨³ûÃ1
+H	css:S4649ç"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8¯³ûÃ1
+H	css:S4649«2"&Unexpected missing generic font family(ØßÈñÿÿÿÿÿ8°³ûÃ1
+H	css:S4649ê3"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8°³ûÃ1
+C	css:S4649Ö4"&Unexpected missing generic font family(ŠûØ8±³ûÃ1
+H	css:S4649Ò5"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8±³ûÃ1
+H	css:S4649×5"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8±³ûÃ1
+C	css:S4649Ü5"&Unexpected missing generic font family(®Ø‹´8±³ûÃ1
+H	css:S4649ß5"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8±³ûÃ1
+H	css:S4649ä5"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ8±³ûÃ1
+C	css:S4649é5"&Unexpected missing generic font family(ŠûØ8²³ûÃ1
+C	css:S4649¢<"&Unexpected missing generic font family(¿é÷œ8²³ûÃ1
+C	css:S4649¥<"&Unexpected missing generic font family(¿é÷œ8²³ûÃ1
+C	css:S4649·@"&Unexpected missing generic font family(ŠûØ8²³ûÃ1
+C	css:S4649Ç@"&Unexpected missing generic font family(ŠûØ8²³ûÃ1
+C	css:S4649ÁO"&Unexpected missing generic font family(œ¹Ú8²³ûÃ1
+C	css:S4649ª\"&Unexpected missing generic font family(œ¹Ú8²³ûÃ1
+H	css:S4649ı_"&Unexpected missing generic font family(¨®íßşÿÿÿÿ8²³ûÃ1
+z	css:S4666ï"XUnexpected duplicate selector ".card .card-block .dropdown-menu", first used at line 222(ùç‰òúÿÿÿÿ8²³ûÃ1
+|	css:S4666§"ZUnexpected duplicate selector ".mytooltip:hover .tooltip-content2", first used at line 545(¸š¨¼øÿÿÿÿ8³³ûÃ1
+~	css:S4666­"\Unexpected duplicate selector ".mytooltip:hover .tooltip-content2 i", first used at line 548(¡§¤ªûÿÿÿÿ8³³ûÃ1
+r	css:S4666"PUnexpected duplicate selector ".faq-progress .progress", first used at line 2264(ñ¼Œñøÿÿÿÿ8³³ûÃ1
+k	css:S4666¢"NUnexpected duplicate selector ".prod-info .br-widget", first used at line 2415(±Úî¦8³³ûÃ1
+ñ	css:S4666ë"ÎUnexpected duplicate selector ".wall-img-preview .wall-item:first-child:nth-last-child(2),
+.wall-img-preview .wall-item:first-child:nth-last-child(2) ~ div", first used at line 2788 (no-duplicate-selectors)(š¾²úÿÿÿÿ8³³ûÃ1
+v	css:S4666¹"TUnexpected duplicate selector ".dotted-line-theme .no_edit", first used at line 2867(ÕúÌÎúÿÿÿÿ8³³ûÃ1
+ˆ	css:S4666ğ"fUnexpected duplicate selector ".dd-w,
+.sp-container", first used at line 2358 (no-duplicate-selectors)(¦ÌÙôüÿÿÿÿ8´³ûÃ1
+v	css:S4666‡ "TUnexpected duplicate selector ".dotted-line-theme .no_edit", first used at line 2867(ÕúÌÎúÿÿÿÿ8´³ûÃ1
+¦	css:S4666ó""ˆUnexpected duplicate selector "#main-chat .page-error i,
+.full-calender .page-error i", first used at line 4077 (no-duplicate-selectors)(ğ±ÿ8´³ûÃ1
+c	css:S4666•'"AUnexpected duplicate selector ".f-w-600", first used at line 5004(¢ƒ¯¿ıÿÿÿÿ8´³ûÃ1
+d	css:S4666ö("GUnexpected duplicate selector ".label-warning", first used at line 5220(Å»Í³8´³ûÃ1
+o	css:S46662"MUnexpected duplicate selector ".pcoded-inner-navbar", first used at line 6316(Œ«Ê÷şÿÿÿÿ8´³ûÃ1
+¬	css:S4666é2"Unexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-header .pcoded-right-header .pcoded-rl-header", first used at line 6501(ÄùÙ38´³ûÃ1
+¸	css:S4666¢4"•Unexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu", first used at line 6682(ı¼ˆøÿÿÿÿ8µ³ûÃ1
+¸	css:S4666±4"•Unexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu", first used at line 6682(ı¼ˆøÿÿÿÿ8µ³ûÃ1
+¦	css:S4666ó4"ˆUnexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-navbar[pcoded-navbar-position="fixed"]", first used at line 6569(‘ÕÚù8µ³ûÃ1
+©	css:S4666õ4"‹Unexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-navbar[pcoded-navbar-position="absolute"]", first used at line 6567(»¤Î8µ³ûÃ1
+´	css:S4666Ã5"‘Unexpected duplicate selector ".pcoded .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu li > a .pcoded-micon", first used at line 6379(ìœë¹úÿÿÿÿ8µ³ûÃ1
+´	css:S46667"‘Unexpected duplicate selector ".pcoded[theme-layout="vertical"] .pcoded-navbar .pcoded-item li.pcoded-hasmenu > a:after", first used at line 6734(»½°·ùÿÿÿÿ8µ³ûÃ1
+¤	css:S4666’:"†Unexpected duplicate selector ".pcoded[theme-layout="vertical"][vertical-nav-type="fullpage"] .pcoded-navbar", first used at line 7431(ÀæŠé8µ³ûÃ1
+¿	css:S4666¿:"œUnexpected duplicate selector ".pcoded[theme-layout="vertical"][vertical-nav-type="fullpage"] .pcoded-navbar .pcoded-item > li > a", first used at line 7464(Ø¿ù“úÿÿÿÿ8µ³ûÃ1
+Û	css:S4666¾<"¸Unexpected duplicate selector ".pcoded[theme-layout="vertical"][vertical-placement="right"] .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu li > a", first used at line 7694(¡İ¬ûÿÿÿÿ8µ³ûÃ1
+ğ	css:S4666À<"ÍUnexpected duplicate selector ".pcoded[theme-layout="vertical"][vertical-placement="right"] .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu li > a .pcoded-mtext:before", first used at line 7696(åÔ¶ğûÿÿÿÿ8µ³ûÃ1
+™	css:S4666ë<"|Unexpected duplicate selector ".pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item > li > a", first used at line 7780(·•ö·8µ³ûÃ1
+¤	css:S4666É="Unexpected duplicate selector ".pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item > li > a", first used at line 7877(·¥¾Ôùÿÿÿÿ8µ³ûÃ1
+¶	css:S4666ÛA"˜Unexpected duplicate selector ".pcoded.nocollapsed[theme-layout="vertical"][pcoded-device-type="phone"] .pcoded-main-container", first used at line 7578(’ƒõë8µ³ûÃ1
+¾	css:S4666¤B" Unexpected duplicate selector "body .pcoded[vertical-placement="right"] .header-navbar .navbar-wrapper .navbar-container .nav-right li", first used at line 8484(”õ÷¶8µ³ûÃ1
+Û	css:S4666«B"½Unexpected duplicate selector "body .pcoded[vertical-placement="right"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification", first used at line 8491(ÿ¸ìş8µ³ûÃ1
+u	css:S4666ÍB"YUnexpected duplicate selector "body.menu-bottom .navbar-wrapper", first used at line 8518(—ÄÀ8µ³ûÃ1
+l	css:S4666ÁC"JUnexpected duplicate selector ".dropdown-warning", first used at line 8634(¬ï¬ıÿÿÿÿ8µ³ûÃ1
+v	css:S4666‡D"TUnexpected duplicate selector ".nav-pills .nav-link.active", first used at line 8711(ß¶ĞŒûÿÿÿÿ8µ³ûÃ1
+|	css:S4666‡D"ZUnexpected duplicate selector ".nav-pills .nav-link.active:focus", first used at line 8711(ß¶ĞŒûÿÿÿÿ8µ³ûÃ1
+|	css:S4666‡D"ZUnexpected duplicate selector ".nav-pills .nav-link.active:hover", first used at line 8711(ß¶ĞŒûÿÿÿÿ8µ³ûÃ1
+o	css:S4666µE"MUnexpected duplicate selector ".btn-outline-primary", first used at line 1684(ìƒûÿÿÿÿ8µ³ûÃ1
+o	css:S4666ĞE"MUnexpected duplicate selector ".btn-outline-warning", first used at line 8890(¯÷ØÏùÿÿÿÿ8µ³ûÃ1
+k	css:S4666æE"IUnexpected duplicate selector ".btn-grd-warning", first used at line 8928(ä¹áûûÿÿÿÿ8µ³ûÃ1
+l	css:S4666òE"OUnexpected duplicate selector ".btn-grd-warning:hover", first used at line 8940(Î¢çÖ8µ³ûÃ1
+n	css:S4666ûE"QUnexpected duplicate selector ".btn-grd-warning.hor-grd", first used at line 8949(œ–›à8µ³ûÃ1
+y	css:S4666„F"WUnexpected duplicate selector ".btn-grd-warning.hor-grd:hover", first used at line 8958(‹åß²şÿÿÿÿ8µ³ûÃ1
+p	css:S4666ìF"NUnexpected duplicate selector ".btn-outline-disabled", first used at line 8922(Ò÷Ù¿şÿÿÿÿ8¶³ûÃ1
+—	css:S4666ÛO"zUnexpected duplicate selector ".checkbox-primary input[type="checkbox"]:checked + label::before", first used at line 10199(ëÂ½8¶³ûÃ1
+g	css:S4666îP"KUnexpected duplicate selector ".wizard > .content", first used at line 4481(”çÛj8¶³ûÃ1
+a	css:S4666ĞR"?Unexpected duplicate selector ".label", first used at line 5209(™Ñˆüÿÿÿÿ8¶³ûÃ1
+i	css:S4666„S"GUnexpected duplicate selector ".label-default", first used at line 5223(šıÁúÿÿÿÿ8¶³ûÃ1
+r	css:S4666³W"UUnexpected duplicate selector ".page-item.active .page-link", first used at line 1734(åÚä8¶³ûÃ1
+`	css:S4666·W"CUnexpected duplicate selector ".page-link", first used at line 1731(ï¨ÿ¸8¶³ûÃ1
+[	css:S4666‹_"?Unexpected duplicate selector ".close", first used at line 8573(á°	8¶³ûÃ1
+Ô	css:S4666Ä{"±Unexpected duplicate selector ".pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification", first used at line 15812(Ìè›Ïúÿÿÿÿ8¶³ûÃ1
+¼	css:S4666Ë{"ŸUnexpected duplicate selector "body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification", first used at line 15812(½†Ç8¶³ûÃ1
+Ñ	css:S4666Ó{"³Unexpected duplicate selector ".pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a", first used at line 15827(Ùê¾Û8¶³ûÃ1
+Ä	css:S4666Ú{"¡Unexpected duplicate selector "body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a", first used at line 15827(ûáşÕıÿÿÿÿ8¶³ûÃ1
+Û	css:S4666â{"¾Unexpected duplicate selector ".pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover", first used at line 15842(Ê÷|8¶³ûÃ1
+Ï	css:S4666é{"¬Unexpected duplicate selector "body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover", first used at line 15842(÷ˆåšıÿÿÿÿ8¶³ûÃ1
+ú	css:S4666ñ{"ÜUnexpected duplicate selector ".pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links > li:hover a", first used at line 15857(ºñš•8¶³ûÃ1
+í	css:S4666ø{"ÊUnexpected duplicate selector "body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links > li:hover a", first used at line 15857(¤‚‰İøÿÿÿÿ8¶³ûÃ1
+Ø	css:S4666€|"ºUnexpected duplicate selector ".pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover", first used at line 15872(³ï¶Å8¶³ûÃ1
+Æ	css:S4666ƒ|"¨Unexpected duplicate selector "body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover", first used at line 15872(Ç’ÔÒ8¶³ûÃ1
+`	css:S4666Î€"=Unexpected duplicate selector ".card", first used at line 142(ñÇóùÿÿÿÿ8ËĞ€Ã1
+`	css:S4666Ò€"=Unexpected duplicate selector ".card", first used at line 142(ñÇóùÿÿÿÿ8ËĞ€Ã1
+`	css:S4666û€"=Unexpected duplicate selector ".card", first used at line 142(ñÇóùÿÿÿÿ8÷¸Ã1
+K	css:S4654ı"/Unexpected unknown property "webkit-transition"(±©µZ8¶³ûÃ1

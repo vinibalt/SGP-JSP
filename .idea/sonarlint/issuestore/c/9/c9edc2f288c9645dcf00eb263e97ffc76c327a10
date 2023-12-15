@@ -1,0 +1,38 @@
+
+e
+java:S1192Y"IDefine a constant instead of duplicating this literal "usuarios" 4 times.(¹ø8ÚÀïÆ1
+h
+java:S1192N"KDefine a constant instead of duplicating this literal "modelLogin" 3 times.(–êò¹8ÚÀïÆ1
+
+java:S1192Z"_Define a constant instead of duplicating this literal "principal/usuario-cadastro.jsp" 6 times.(ªöÈŠÿÿÿÿÿ8ÚÀïÆ1
+v
+java:S1192l"TDefine a constant instead of duplicating this literal "Content-Disposition" 3 times.(”·£Ùşÿÿÿÿ8ÁñÍïÆ1
+W
+java:S1141v"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÚÀïÆ1
+X
+java:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÁñÍïÆ1
+X
+java:S1948*"6Make "daoUsuarioRepository" transient or serializable.(–¼®´øÿÿÿÿ8şÛÀïÆ1
+o
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(÷¤‹ú8ÜÀïÆ1
+W
+java:S11610":Add the "@Override" annotation above this method signature(÷¤‹ú8ÜÀïÆ1
+j
+java:S1871î"LThis branch's code block is the same as the block for the branch on line 87.(å¥‡8‚ÜÀïÆ1
+W
+java:S2209m"5Change this instance-reference to a static reference.(Ü´¥Œûÿÿÿÿ8•ÜÀïÆ1
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(¢ç¼ú8ØóÍïÆ1
+Z
+java:S1854†"7Remove this useless assignment to local variable "msg".(ºáÉÁÿÿÿÿÿ8ÜÀïÆ1
+]
+java:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8ÜÀïÆ1
+S
+java:S2209œ"5Change this instance-reference to a static reference.( ¡¡Ó8 ÜÀïÆ1
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8½ÖÓïÆ1
+n
+java:S1128"RRemove this unused import 'org.apache.tomcat.util.http.fileupload.RequestContext'.(³Ûªs8½ÖÓïÆ1
+z
+java:S1128"]Remove this unused import 'org.apache.tomcat.util.http.fileupload.servlet.ServletFileUpload'.(ÇÂ£î8½ÖÓïÆ1
+ä
+java:S65410"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 134 to 64, Complexity from 36 to 14, Nesting Level from 4 to 2, Number of Variables from 42 to 6.(÷¤‹ú8¢ÜÀïÆ1
